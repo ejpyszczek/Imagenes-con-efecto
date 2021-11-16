@@ -3,6 +3,8 @@ Imagen con estilo hover en HTML y CSS
 
 Comenzando 🚀
 
+Link Previsualizcion: https://ejpyszczek.github.io/Imagenes-con-efecto/
+
 Herramientas requisitos 📋
 HTML - CSS - Visual Studio Code
 
