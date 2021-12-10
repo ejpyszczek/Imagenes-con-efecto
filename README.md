@@ -9,7 +9,7 @@ Herramientas requisitos 📋
 HTML - CSS - Visual Studio Code
 
 Versionado 📌
-Primera Version
+Primera Version A
 
 Autores ✒️
 Enrique J. Pyszczek 
